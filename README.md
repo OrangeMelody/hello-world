@@ -1,2 +1,2 @@
 # hello-world
-just look
+people can think and do what they like
